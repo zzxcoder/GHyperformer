@@ -1,4 +1,4 @@
-## GHyperformer
+## GatedHyformer
 
 ## Usage
 ### 1. Prepare data. 
